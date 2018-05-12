@@ -1,0 +1,29 @@
+_repo: Quartetto_46225
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46225-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Oriani, Alfredo
+    alias: Banzole, Ottone di
+    birthdate: 1852
+    deathdate: 1909
+    gutenberg_agent_id: '9059'
+    url: http://www.gutenberg.org/2009/agents/9059
+    wikipedia: http://it.wikipedia.org/wiki/Alfredo_Oriani
+description: ''
+gutenberg_bookshelf: IT Racconti
+gutenberg_issued: '2014-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46225'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italian fiction'
+- !lcc 'PQ'
+title: Quartetto
+url: http://www.gutenberg.org/ebooks/46225
