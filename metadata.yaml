@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9059
     wikipedia: http://it.wikipedia.org/wiki/Alfredo_Oriani
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46225#Quartetto
 gutenberg_bookshelf: IT Racconti
 gutenberg_issued: '2014-07-08'
 gutenberg_type: Text
